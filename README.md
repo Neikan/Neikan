@@ -73,7 +73,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 <div align='center'><img src='https://github-readme-stats.vercel.app/api?username=Neikan&show_icons=true&count_private=true&hide_border=true' align='center' /></div>
 <br />
 
-<div align='center'><img src='https://wakatime.com/share/@Neikan/daf6f46a-fab9-42e3-b8d0-7053e63902db.svg' align='center' /></div>
+<div align='center'><img src='https://wakatime.com/share/@Neikan/bd1a01ad-3b99-41b0-9694-6437e8d15f91.svg' align='center' /></div>
 <br />
 
 <div align='center'><img src='https://wakatime.com/share/@Neikan/855c71c4-ed4b-48c9-9d3b-39faa224a8d8.svg' align='center' /></div>
@@ -81,3 +81,18 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 
 ## 🔎 How to reach me:
 <p>Email me: <a href='mailto:sladkov.e.m@outlook.com'>sladkov.e.m@outlook.com</a> or welcome to <a href='https://neikan.pro'>my private page</a>!</p>
+
+<div align='center'>
+    <a href='mailto:sladkov.e.m@outlook.com' target='_blank' style='margin: 10px;'>
+        <img src='img/icons/MailTo.svg' title='sladkov.e.m@outlook.com' alt='sladkov.e.m@outlook.com' width='40'>
+    </a>
+    <a href='tel:+79188900075' target='_blank' style='margin: 10px;'>
+        <img src='img/icons/Phone 2.svg' title='+7 (918) 890-00-75' alt='+7 (918) 890-00-75' width='40'>
+    </a>
+    <a href='tg:https://t.me/NeikaN_N' target='_blank' style='margin: 10px;'>
+        <img src='img/icons/Telegram.svg' title='@NeikaN_N' alt='@NeikaN_N' width='40'>
+    </a>
+    <a href='https://linkedin.com/in/morrismuuo' target='_blank' style='margin: 10px;'>
+        <img src='img/icons/LinkedIn.svg' title='https://www.linkedin.com/in/neikan' alt='https://www.linkedin.com/in/neikan' width='40'>
+    </a>
+</div>
