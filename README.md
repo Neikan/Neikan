@@ -1,9 +1,9 @@
-### Hello world! 🤘🏻
+### < Hello world! /> 🤘🏻
 
 My name is Eugene and I'm ~~Batman!~~ :) frontend-developer!
 
 🛠 **The main stack of technologies I use:**
-<p align="center">
+<p>
     <img src="img/icons/Typescript.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/React.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/Redux.svg" width="40">&nbsp;&nbsp;
@@ -11,8 +11,8 @@ My name is Eugene and I'm ~~Batman!~~ :) frontend-developer!
 </p>
 
 ⚒ **The main stack of technologies I use:**
-<p align="center">
-    <img src="img/icons/JavaScript.svg" width="40">&nbsp;&nbsp;
+<p>
+    <img src="img/icons/Javascript.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/Java.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/React Router.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/Apache Cordova.svg" width="40">&nbsp;&nbsp;
@@ -36,7 +36,7 @@ My name is Eugene and I'm ~~Batman!~~ :) frontend-developer!
 </p>
 
 🔬 **At the moment I'm interested in::**
-<p align="center">
+<p>
     <img src="img/icons/NextJS.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/Vue.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/Angular.svg" width="40">&nbsp;&nbsp;
@@ -64,8 +64,6 @@ My name is Eugene and I'm ~~Batman!~~ :) frontend-developer!
 
 
 🔎 How to reach me:
-<p>
-    ✉️: <a href="mailto:sladkov.e.m@outlook.com">sladkov.e.m@outlook.com</a>
-    ☎️: <a href="tel:+79188900075">+7 (918) 890-00-75</a>
-    🔖: <a href="tg:https://t.me/NeikaN_N">@NeikaN_N</a>
-</p>
+    <p>✉️ <a href="mailto:sladkov.e.m@outlook.com">sladkov.e.m@outlook.com</a></p>
+    <p>☎️ <a href="tel:+79188900075">+7 (918) 890-00-75</a></p>
+    <p>🔖 <a href="tg:https://t.me/NeikaN_N">@NeikaN_N</a></p>
