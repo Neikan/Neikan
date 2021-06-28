@@ -1,17 +1,19 @@
 <h1 align='center'>< Hello world! /> 🤘🏻</h1>
 
-<p>My name is <span style='color: #3780C2; font-weight: 700'>Eugene</span> and I'm <span style='color: #8B8B8B; text-decoration: line-through; font-style: italic;'>Batman!</span>  :) <span style='color: #3780C2; font-weight: 700'>frontend-developer</span>!</p>
+My name is **Eugene** and I'm _~~Batman!~~_ :) **frontend-developer**!
 
-<p style='margin-top: 30px; font-weight: 700'>⚒ The main stack of technologies I use:</p>
-<p>
+
+⚒ **The main stack of technologies I use:**
+<div>
     <img src='img/icons/Typescript.svg' title='TypeScript' alt='TypeScript' width='40'>&nbsp;&nbsp;
     <img src='img/icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
     <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
-</p>
+</div>
 
-<p style='margin-top: 30px; font-weight: 700'>🛠 and more:</p>
-<p align='center'>
+
+🛠 **and more:**
+<div align='center'>
     <img src='img/icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Java.svg' title='Java' alt='Java' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Apache Cordova.svg' title='Apache Cordova' alt='Apache Cordova' width='40'>&nbsp;&nbsp;
@@ -33,10 +35,11 @@
     <img src='img/icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
-</p>
+</div>
 
-<p style='margin-top: 30px; font-weight: 700'>🔬 At the moment I'm interested in:</p>
-<p>
+
+🔬 **At the moment I'm interested in:**
+<div>
     <img src='img/icons/NextJS.svg' title='Next.js' alt='Next.js' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Vue.svg' title='Vue.js' alt='Vue.js' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Angular.svg' title='Angular' alt='Angular' width='40'>&nbsp;&nbsp;
@@ -44,10 +47,13 @@
     <img src='img/icons/GraphQL.svg' title='GraphQL' alt='GraphQL' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Ionic.svg' title='Ionic Framework' alt='Ionic Framework' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Kotlin.svg' title='Kotlin' alt='Kotlin' width='40'>&nbsp;&nbsp;
-</p>
+</div>
 
 
-<h3 style='margin-top: 30px; margin-bottom: 20px; font-weight: 700''> 🧰 My projects:</h3>
+
+<h3> 🧰 My projects:</h3>
+
+
 
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
