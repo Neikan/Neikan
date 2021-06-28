@@ -2,7 +2,7 @@
 
 My name is Eugene and I'm ~~Batman!~~ :) frontend-developer!
 
-🛠 **The main stack of technologies I use:**
+⚒ **The main stack of technologies I use:**
 <p>
     <img src="img/icons/Typescript.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/React.svg" width="40">&nbsp;&nbsp;
@@ -10,8 +10,8 @@ My name is Eugene and I'm ~~Batman!~~ :) frontend-developer!
     <img src="img/icons/SASS.svg" width="40">&nbsp;&nbsp;
 </p>
 
-⚒ **The main stack of technologies I use:**
-<p>
+🛠 **Also I use:**
+<p align='center'>
     <img src="img/icons/Javascript.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/Java.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/React Router.svg" width="40">&nbsp;&nbsp;
@@ -51,7 +51,7 @@ My name is Eugene and I'm ~~Batman!~~ :) frontend-developer!
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
 | [docuForce](https://docuforce.infologistics.ru/login) | 💰 | Legally significant Electronic document management system | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
-| [docuForce Mobile] | 💰 | Mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
+| docuForce Mobile | 💰 | Mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
 | [RM-Keeper](https://rm-keeper.infologistics.ru) | 💰 | Electronic Storage System | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
 | [Frontend Libraries](https://www.npmjs.com/package/@infologistics/frontend-libraries) | 💰 | Library for common frontend components | TypeScript, React, SCSS, Webpack/Rollup, Styleguidist |
 | [RC-Lib](https://www.npmjs.com/package/@neikan/rc-lib) | 🔑 | My pet-project: library for common frontend components | TypeScript, React, SASS/SCSS, Webpack, Storybook |
