@@ -51,7 +51,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 </div>
 <br />
 
-<h3> 🧰 My projects:</h3>
+<h3> 🎯 My projects:</h3>
 <br />
 
 | Title        | Type        | Description          | Technologies  |
