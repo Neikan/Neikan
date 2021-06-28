@@ -70,14 +70,20 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 <br />
 
 ## My stats:
-<div align='center'><img src='https://github-readme-stats.vercel.app/api?username=Neikan&show_icons=true&count_private=true&hide_border=true' align='center' /></div>
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=Neikan&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+</div>
 <br />
 
-<div align='center'><img src='https://wakatime.com/share/@Neikan/bd1a01ad-3b99-41b0-9694-6437e8d15f91.svg' align='center' /></div>
+<div align='center'>
+    <img src='https://wakatime.com/share/@Neikan/bd1a01ad-3b99-41b0-9694-6437e8d15f91.svg' alt='Coding activity over all time' align='center' />
+</div>
 <br />
 
-<div align='center'><img src='https://wakatime.com/share/@Neikan/855c71c4-ed4b-48c9-9d3b-39faa224a8d8.svg' align='center' /></div>
+<div align='center'>
+    <img src='https://wakatime.com/share/@Neikan/855c71c4-ed4b-48c9-9d3b-39faa224a8d8.svg' alt='Languages over last 30 days ' align='center' />
+</div>
 <br />
 
 ## 🔎 How to reach me:
-<p>Email me: <a href='mailto:sladkov.e.m@outlook.com'>sladkov.e.m@outlook.com</a> or welcome to <a href='https://neikan.pro'>my private page</a>!</p>
+<p>Email me: <a href='mailto:sladkov.e.m@outlook.com'>sladkov.e.m@outlook.com</a> or welcome to <a href='https://neikan.pro' alt='https://neikan.pro' target='_blank'>my private page</a>!</p>
