@@ -1,17 +1,20 @@
 <h1 align='center'>< Hello world! /> 🤘🏻</h1>
 
-<p>My name is <span style='color: #3780C2; font-weight: 700'>Eugene</span> and I'm <span style='color: #8B8B8B; text-decoration: line-through; font-style: italic;'>Batman!</span>  :) <span style='color: #3780C2; font-weight: 700'>frontend-developer</span>!</p>
+My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 
-<p style='margin-top: 30px; font-weight: 700'>⚒ The main stack of technologies I use:</p>
-<p>
+<br />
+
+⚒ **The main stack of technologies I use:**
+<div>
     <img src='img/icons/Typescript.svg' title='TypeScript' alt='TypeScript' width='40'>&nbsp;&nbsp;
     <img src='img/icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
     <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
-</p>
+</div>
+<br />
 
-<p style='margin-top: 30px; font-weight: 700'>🛠 and more:</p>
-<p align='center'>
+🛠 **and more:**
+<div align='center'>
     <img src='img/icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Java.svg' title='Java' alt='Java' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Apache Cordova.svg' title='Apache Cordova' alt='Apache Cordova' width='40'>&nbsp;&nbsp;
@@ -33,10 +36,11 @@
     <img src='img/icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
-</p>
+</div>
+<br />
 
-<p style='margin-top: 30px; font-weight: 700'>🔬 At the moment I'm interested in:</p>
-<p>
+🔬 **At the moment I'm interested in:**
+<div>
     <img src='img/icons/NextJS.svg' title='Next.js' alt='Next.js' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Vue.svg' title='Vue.js' alt='Vue.js' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Angular.svg' title='Angular' alt='Angular' width='40'>&nbsp;&nbsp;
@@ -44,10 +48,11 @@
     <img src='img/icons/GraphQL.svg' title='GraphQL' alt='GraphQL' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Ionic.svg' title='Ionic Framework' alt='Ionic Framework' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Kotlin.svg' title='Kotlin' alt='Kotlin' width='40'>&nbsp;&nbsp;
-</p>
+</div>
+<br />
 
-
-<h3 style='margin-top: 30px; margin-bottom: 20px; font-weight: 700''> 🧰 My projects:</h3>
+## 🎯 My projects:
+<br />
 
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
@@ -62,7 +67,23 @@
 | [Keksobooking](https://github.com/Neikan/htmlacademy-keksobooking) | <div align='center' title='Training'>🎓</div> | The simple “booking”-like app prototype | JavaScript (ES5) |
 | [Cat Energy](https://github.com/Neikan/htmlacademy-cat-energy) | <div align='center' title='Training'>🎓</div> | The responsive app prototype to help you find the right nutrition for your cat | HTML, CSS, LESS, Gulp |
 | [Sedona](https://github.com/Neikan/htmlacademy-sedona) | <div align='center' title='Training'>🎓</div> | Business card site for a city in Arizona | HTML, CSS |
+<br />
 
+## 📈 My stats:
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=Neikan&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+</div>
+<br />
 
-🔎 **How to reach me:**
-    <p>Email me: <a href='mailto:sladkov.e.m@outlook.com'>sladkov.e.m@outlook.com</a> or welcome to <a href='https://neikan.pro'>my private page</a>!</p>
+<div align='center'>
+    <img src='https://wakatime.com/share/@Neikan/bd1a01ad-3b99-41b0-9694-6437e8d15f91.svg' alt='Coding activity over all time' align='center' width='495'/>
+</div>
+<br />
+
+<div align='center'>
+    <img src='https://wakatime.com/share/@Neikan/855c71c4-ed4b-48c9-9d3b-39faa224a8d8.svg' alt='Languages over last 30 days ' align='center' width='495' />
+</div>
+<br />
+
+## 🔎 How to reach me:
+<p>Email me: <a href='mailto:sladkov.e.m@outlook.com'>sladkov.e.m@outlook.com</a> or welcome to <a href='https://neikan.pro' alt='https://neikan.pro' target='_blank'>my private page</a>!</p>
