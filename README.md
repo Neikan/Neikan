@@ -69,7 +69,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 | [Sedona](https://github.com/Neikan/htmlacademy-sedona) | <div align='center' title='Training'>🎓</div> | Business card site for a city in Arizona | HTML, CSS |
 <br />
 
-## My stats:
+## 📈 My stats:
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=Neikan&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
 </div>
