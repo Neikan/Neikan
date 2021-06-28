@@ -81,7 +81,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Neikan' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Neikan&layout=compact' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
