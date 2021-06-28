@@ -73,7 +73,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 <div align='center'><img src='https://github-readme-stats.vercel.app/api?username=Neikan&show_icons=true&count_private=true&hide_border=true' align='center' /></div>
 <br />
 
-<div align='center'><img src='https://wakatime.com/share/@Neikan/daf6f46a-fab9-42e3-b8d0-7053e63902db.svg' align='center' /></div>
+<div align='center'><img src='https://wakatime.com/share/@Neikan/bd1a01ad-3b99-41b0-9694-6437e8d15f91.svg' align='center' /></div>
 <br />
 
 <div align='center'><img src='https://wakatime.com/share/@Neikan/855c71c4-ed4b-48c9-9d3b-39faa224a8d8.svg' align='center' /></div>
