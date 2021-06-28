@@ -10,14 +10,12 @@ My name is **Eugene** and I'm _~~Batman!~~_ :) **frontend-developer**!
     <img src="img/icons/SASS.svg" width="40">&nbsp;&nbsp;
 </p>
 
-
-
 🛠 **and more:**
 <p align='center'>
     <img src="img/icons/Javascript.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/Java.svg" width="40">&nbsp;&nbsp;
-    <img src="img/icons/React Router.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/Apache Cordova.svg" width="40">&nbsp;&nbsp;
+    <img src="img/icons/React Router.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/Git.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/SQL.svg" width="40">&nbsp;&nbsp;
     <img src="img/icons/HTML.svg" width="40">&nbsp;&nbsp;
