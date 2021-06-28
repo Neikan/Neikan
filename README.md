@@ -56,7 +56,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
-| <a href='https://docuforce.infologistics.ru/login' alt='docuForce' target='_blank'>docuForce</a> | <div align='center' title='Commercial'>💰</div> | Legally significant Electronic document management system | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
+| [docuForce](https://docuforce.infologistics.ru/login) | <div align='center' title='Commercial'>💰</div> | Legally significant Electronic document management system | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
 | docuForce Mobile | <div align='center' title='Commercial' >💰</div> | Mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
 | [RM-Keeper](https://rm-keeper.infologistics.ru) | <div align='center' title='Commercial'>💰</div> | Electronic Storage System | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
 | [Frontend Libraries](https://www.npmjs.com/package/@infologistics/frontend-libraries) | <div align='center' title='Commercial'>💰</div> | Library for common frontend components | TypeScript, React, SCSS, Webpack/Rollup, Styleguidist |
