@@ -76,12 +76,12 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 <br />
 
 <div align='center'>
-    <img src='https://wakatime.com/share/@Neikan/bd1a01ad-3b99-41b0-9694-6437e8d15f91.svg' alt='Coding activity over all time' align='center' width='495'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Neikan' alt='Github stats' align='center' />
 </div>
 <br />
 
 <div align='center'>
-    <img src='https://wakatime.com/share/@Neikan/9b040905-cc98-4346-a8cf-185e8cb3ee65.svg' alt='Languages over last 30 days ' align='center' width='495' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Neikan' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
