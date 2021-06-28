@@ -51,7 +51,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 </div>
 <br />
 
-<h3> 🎯 My projects:</h3>
+## 🎯 My projects:
 <br />
 
 | Title        | Type        | Description          | Technologies  |
@@ -69,5 +69,15 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 | [Sedona](https://github.com/Neikan/htmlacademy-sedona) | <div align='center' title='Training'>🎓</div> | Business card site for a city in Arizona | HTML, CSS |
 <br />
 
-🔎 **How to reach me:**
-    <p>Email me: <a href='mailto:sladkov.e.m@outlook.com'>sladkov.e.m@outlook.com</a> or welcome to <a href='https://neikan.pro'>my private page</a>!</p>
+## My stats:
+<div align='center'><img src='https://github-readme-stats.vercel.app/api?username=Neikan&show_icons=true&count_private=true&hide_border=true' align='center' /></div>
+<br />
+
+<div align='center'><img src='https://wakatime.com/share/@Neikan/daf6f46a-fab9-42e3-b8d0-7053e63902db.svg' align='center' /></div>
+<br />
+
+<div align='center'><img src='https://wakatime.com/share/@Neikan/855c71c4-ed4b-48c9-9d3b-39faa224a8d8.svg' align='center' /></div>
+<br />
+
+## 🔎 How to reach me:
+<p>Email me: <a href='mailto:sladkov.e.m@outlook.com'>sladkov.e.m@outlook.com</a> or welcome to <a href='https://neikan.pro'>my private page</a>!</p>
