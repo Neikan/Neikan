@@ -1,7 +1,8 @@
 <h1 align='center'>< Hello world! /> 🤘🏻</h1>
 
-My name is **Eugene** and I'm _~~Batman!~~_ :) **frontend-developer**!
+My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 
+<br />
 
 ⚒ **The main stack of technologies I use:**
 <div>
@@ -10,7 +11,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ :) **frontend-developer**!
     <img src='img/icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
     <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
 </div>
-
+<br />
 
 🛠 **and more:**
 <div align='center'>
@@ -36,7 +37,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ :) **frontend-developer**!
     <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
 </div>
-
+<br />
 
 🔬 **At the moment I'm interested in:**
 <div>
@@ -48,12 +49,10 @@ My name is **Eugene** and I'm _~~Batman!~~_ :) **frontend-developer**!
     <img src='img/icons/Ionic.svg' title='Ionic Framework' alt='Ionic Framework' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Kotlin.svg' title='Kotlin' alt='Kotlin' width='40'>&nbsp;&nbsp;
 </div>
-
-
+<br />
 
 <h3> 🧰 My projects:</h3>
-
-
+<br />
 
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
@@ -68,7 +67,7 @@ My name is **Eugene** and I'm _~~Batman!~~_ :) **frontend-developer**!
 | [Keksobooking](https://github.com/Neikan/htmlacademy-keksobooking) | <div align='center' title='Training'>🎓</div> | The simple “booking”-like app prototype | JavaScript (ES5) |
 | [Cat Energy](https://github.com/Neikan/htmlacademy-cat-energy) | <div align='center' title='Training'>🎓</div> | The responsive app prototype to help you find the right nutrition for your cat | HTML, CSS, LESS, Gulp |
 | [Sedona](https://github.com/Neikan/htmlacademy-sedona) | <div align='center' title='Training'>🎓</div> | Business card site for a city in Arizona | HTML, CSS |
-
+<br />
 
 🔎 **How to reach me:**
     <p>Email me: <a href='mailto:sladkov.e.m@outlook.com'>sladkov.e.m@outlook.com</a> or welcome to <a href='https://neikan.pro'>my private page</a>!</p>
