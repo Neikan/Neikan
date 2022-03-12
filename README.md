@@ -41,13 +41,8 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 
 🔬 **At the moment I'm interested in:**
 <div>
-    <img src='img/icons/NextJS.svg' title='Next.js' alt='Next.js' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Vue.svg' title='Vue.js' alt='Vue.js' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Angular.svg' title='Angular' alt='Angular' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Svelte.svg' title='Svelte' alt='Svelte' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/GraphQL.svg' title='GraphQL' alt='GraphQL' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Ionic.svg' title='Ionic Framework' alt='Ionic Framework' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Kotlin.svg' title='Kotlin' alt='Kotlin' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp;
 </div>
 <br />
 
@@ -57,7 +52,8 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
 | [docuForce](https://docuforce.infologistics.ru/login) | <div align='center' title='Commercial'>💰</div> | Legally significant Electronic document management system | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
-| docuForce Mobile | <div align='center' title='Commercial' >💰</div> | Mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
+| [docuForce Mobile (Android)](https://play.google.com/store/apps/details?id=ru.infologistics.docuforce&hl=ru&ah=bF0GLTxKkzr8QO_ZDbWXlzcZPHY) | <div align='center' title='Commercial' >💰</div> | Mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
+| [docuForce Mobile (iOS)](https://apps.apple.com/ru/app/docuforce/id1583931741) | <div align='center' title='Commercial' >💰</div> | Mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
 | [RM-Keeper](https://rm-keeper.infologistics.ru) | <div align='center' title='Commercial'>💰</div> | Electronic Storage System | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
 | [Frontend Libraries](https://www.npmjs.com/package/@infologistics/frontend-libraries) | <div align='center' title='Commercial'>💰</div> | Library for common frontend components | TypeScript, React, SCSS, Webpack/Rollup, Styleguidist |
 | [RC-Lib](https://www.npmjs.com/package/@neikan/rc-lib) | <div align='center' title='Private'>🔑</div> | My pet-project: library for common frontend components | TypeScript, React, SASS/SCSS, Webpack, Storybook |
