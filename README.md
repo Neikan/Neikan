@@ -1,22 +1,23 @@
-<h1 align='center'>< Hello world! /> 🤘🏻</h1>
+<h1 align='center'>< Hey world! /> 🤘🏻</h1>
 
-My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
+My name is **Eugene** and I'm _~~Batman!~~_ 😉 **flutter-developer**!
 
 <br />
 
 ⚒ **The main stack of technologies I use:**
 <div>
-    <img src='img/icons/Typescript.svg' title='TypeScript' alt='TypeScript' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp;
 </div>
 <br />
 
-🛠 **and more:**
-<div align='center'>
+⚒ **... as well as:**
+<div>
+    <img src='img/icons/Typescript.svg' title='TypeScript' alt='TypeScript' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Java.svg' title='Java' alt='Java' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Apache Cordova.svg' title='Apache Cordova' alt='Apache Cordova' width='40'>&nbsp;&nbsp;
     <img src='img/icons/React Router.svg' title='React Router' alt='React Router' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
@@ -36,13 +37,15 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
     <img src='img/icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Java.svg' title='Java' alt='Java' width='40'>&nbsp;&nbsp;
 </div>
 <br />
 
-🔬 **At the moment I'm interested in:**
+
+🔬 **My future interests:**
 <div>
-    <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Kotlin.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Java.svg' title='Java' alt='Java' width='40'>&nbsp;&nbsp;
 </div>
 <br />
 
@@ -51,9 +54,11 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **frontend-developer**!
 
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
+| [docuForce Mobile v2 (Android)](https://play.google.com/store/apps/details?id=ru.infologistics.docuforce&hl=ru&ah=bF0GLTxKkzr8QO_ZDbWXlzcZPHY) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart |
+| [docuForce Mobile v2 (iOS)](https://apps.apple.com/ru/app/docuforce/id1583931741) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart |
 | [docuForce](https://docuforce.infologistics.ru/login) | <div align='center' title='Commercial'>💰</div> | Legally significant Electronic document management system | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
-| [docuForce Mobile (Android)](https://play.google.com/store/apps/details?id=ru.infologistics.docuforce&hl=ru&ah=bF0GLTxKkzr8QO_ZDbWXlzcZPHY) | <div align='center' title='Commercial' >💰</div> | Mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
-| [docuForce Mobile (iOS)](https://apps.apple.com/ru/app/docuforce/id1583931741) | <div align='center' title='Commercial' >💰</div> | Mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
+| docuForce Mobile v1 (Android) | <div align='center' title='Commercial' >💰</div> | Previous mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
+| docuForce Mobile v1 (iOS) | <div align='center' title='Commercial' >💰</div> | Previous mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
 | [RM-Keeper](https://rm-keeper.infologistics.ru) | <div align='center' title='Commercial'>💰</div> | Electronic Storage System | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
 | [Frontend Libraries](https://www.npmjs.com/package/@infologistics/frontend-libraries) | <div align='center' title='Commercial'>💰</div> | Library for common frontend components | TypeScript, React, SCSS, Webpack/Rollup, Styleguidist |
 | [RC-Lib](https://www.npmjs.com/package/@neikan/rc-lib) | <div align='center' title='Private'>🔑</div> | My pet-project: library for common frontend components | TypeScript, React, SASS/SCSS, Webpack, Storybook |
