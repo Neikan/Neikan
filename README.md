@@ -54,15 +54,21 @@ My name is **Eugene** and I'm _~~Batman!~~_ 😉 **flutter-developer**!
 
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
-| [docuForce Mobile v2 (Android)](https://play.google.com/store/apps/details?id=ru.infologistics.docuforce&hl=ru&ah=bF0GLTxKkzr8QO_ZDbWXlzcZPHY) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart |
-| [docuForce Mobile v2 (iOS)](https://apps.apple.com/ru/app/docuforce/id1583931741) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart |
+| [docuForce Mobile v2 (Android)](https://play.google.com/store/apps/details?id=ru.infologistics.docuforce&hl=ru&ah=bF0GLTxKkzr8QO_ZDbWXlzcZPHY) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart (Flutter Riverpod, Dio, i18n, Firebase, GetIt, Freezed, etc.) |
+| [docuForce Mobile v2 (iOS)](https://apps.apple.com/ru/app/docuforce/id1583931741) | <div align='center' title='Commercial' >💰</div> | Current mobile client for docuForce | Flutter, Dart (Flutter Riverpod, Dio, i18n, Firebase, GetIt, Freezed, etc.) |
 | [docuForce](https://docuforce.infologistics.ru/login) | <div align='center' title='Commercial'>💰</div> | Legally significant Electronic document management system | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
 | docuForce Mobile v1 (Android) | <div align='center' title='Commercial' >💰</div> | Previous mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
 | docuForce Mobile v1 (iOS) | <div align='center' title='Commercial' >💰</div> | Previous mobile client for docuForce | Cordova, TypeScript, React, Redux, SASS/SCSS, Webpack |
 | [RM-Keeper](https://rm-keeper.infologistics.ru) | <div align='center' title='Commercial'>💰</div> | Electronic Storage System | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack |
 | [Frontend Libraries](https://www.npmjs.com/package/@infologistics/frontend-libraries) | <div align='center' title='Commercial'>💰</div> | Library for common frontend components | TypeScript, React, SCSS, Webpack/Rollup, Styleguidist |
-| [RC-Lib](https://www.npmjs.com/package/@neikan/rc-lib) | <div align='center' title='Private'>🔑</div> | My pet-project: library for common frontend components | TypeScript, React, SASS/SCSS, Webpack, Storybook |
 | [Resume](https://neikan.pro) | <div align='center' title='Private'>🔑</div> | My private page | TypeScript, React, SASS/SCSS, Webpack |
+| [Cubit](https://github.com/Neikan/sb13-cubit) | <div align='center' title='Training'>🎓</div> | Example of Cubit State Management | Flutter, Dart (Flutter Bloc, Dio, GetIt, Freezed) |
+| [Flutter Bloc](https://github.com/Neikan/sb13-flutter_bloc) | <div align='center' title='Training'>🎓</div> | Example of Flutter Bloc State Management | Flutter, Dart (Flutter Bloc, Dio, GetIt, Freezed) |
+| [Redux](https://github.com/Neikan/sb13-redux) | <div align='center' title='Training'>🎓</div> | Example of Redux State Management | Flutter, Dart (Flutter Redux, Redux, Dio, GetIt, Freezed) |
+| [Riverpod](https://github.com/Neikan/sb13-riverpod) | <div align='center' title='Training'>🎓</div> | Example of Riverpod State Management with hooks | Flutter, Dart (Flutter Riverpod, Dio, GetIt, Freezed) |
+| [Riverpod with hooks](https://github.com/Neikan/sb13-riverpod-hooks) | <div align='center' title='Training'>🎓</div> | Example of Riverpod State Management | Flutter, Dart (Flutter Riverpod, Flutter Hooks, Dio, GetIt, Freezed) |
+| [Stream Bloc](https://github.com/Neikan/sb13-stream-bloc) | <div align='center' title='Training'>🎓</div> | Example of Bloc State Management by Stream | Flutter, Dart (Dio, GetIt, Freezed) |
+| [SSM](https://github.com/Neikan/sb13-ssm) | <div align='center' title='Training'>🎓</div> | Example of Simple State Management | Flutter, Dart (Provider, Dio, GetIt, Freezed) |
 | [What To Watch](https://github.com/Neikan/htmlacademy-what-to-watch) | <div align='center' title='Training'>🎓</div> | The app for an online cinema with the ability to authorize, rate, comment and watch movies | JavaScript, React, Redux, Jest, Enzyme, Webpack |
 | [Cinemaddict](https://github.com/Neikan/htmlacademy-cinemaddict) | <div align='center' title='Training'>🎓</div> | The app for forming lists of movies: favorites, watched, planned for watching | JavaScript (ES6), Webpack |
 | [Keksobooking](https://github.com/Neikan/htmlacademy-keksobooking) | <div align='center' title='Training'>🎓</div> | The simple “booking”-like app prototype | JavaScript (ES5) |
